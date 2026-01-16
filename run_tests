@@ -1,0 +1,16 @@
+#!/usr/bin/env python
+import sys
+import unittest
+from pathlib import Path
+
+
+def main():
+    root = Path(__file__).resolve().parent
+    sys.path.insert(0, str(root))
+    suite = unittest.defaultTestLoader.discover(str(root / "tests"))
+    result = unittest.TextTestRunner(verbosity=2).run(suite)
+    sys.exit(0 if result.wasSuccessful() else 1)
+
+
+if __name__ == "__main__":
+    main()

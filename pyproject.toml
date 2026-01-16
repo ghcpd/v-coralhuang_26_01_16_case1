@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fake-useragent"
+version = "0.0.0"
+description = "Local-first fake user-agent provider with bundled dataset"
+authors = [{name = "Community"}]
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+  "importlib-resources>=5.0; python_version < '3.9'"
+]
+
+[project.optional-dependencies]
+test = [
+  "pytest>=7",
+  "pytest-mock>=3.10",
+]
+
+[tool.setuptools]
+py-modules = ["fake", "utils", "settings", "errors", "log"]
+packages = ["data"]
+include-package-data = true
+
+[tool.setuptools.package-data]
+"data" = ["browsers.json"]
+
+[tool.pytest.ini_options]
+addopts = "-q"

@@ -1,0 +1,7 @@
+
+[:python_version < "3.9"]
+importlib-resources>=5.0
+
+[test]
+pytest>=7
+pytest-mock>=3.10

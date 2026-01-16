@@ -1,0 +1,156 @@
+You are a senior Python library engineer specializing in package distribution, offline-first design, and refactoring legacy codebases. The current `fake-useragent` implementation has **no code path to load user-agent data from a bundled package resource**. All existing data-loading mechanisms rely on:
+
+* Runtime web scraping
+* A remote cache server
+* A temporary filesystem cache
+
+This design causes failures in offline environments, introduces unnecessary runtime network dependencies, and complicates reproducible builds.
+
+A local dataset (`browsers.json`) will be provided and must be bundled with the package, but the codebase currently does not consume package-internal data.
+
+---
+
+## Goal
+
+Introduce a **local-first, package-bundled data loading mechanism** that consumes a pre-generated dataset and makes it the **default data source**.
+External fetching must remain available **only as an explicit opt-in fallback**.
+
+---
+
+## Required Changes
+
+### 1. Package-Bundled Local Data (Default)
+
+* Add a data file to the package:
+
+  ```
+  data/browsers.json
+  ```
+
+* The file must be included as package data and read **from the installed package**, not via filesystem-relative paths.
+
+* **Recommended approach**:
+
+  * Use `importlib.resources` (or `importlib_resources` if required) to load the file from the package’s `data` subpackage.
+
+* Expected access pattern:
+
+  ```python
+  files("data").joinpath("browsers.json")
+  ```
+
+* Data format: **JSON Lines**
+
+  * One JSON object per line
+  * Each line maps `{browser_name: [user_agent_strings...]}`
+
+---
+
+### 2. Change Default Loading Behavior (Local First)
+
+* Update the load sequence to:
+
+  1. Load from the bundled `data/browsers.json`
+  2. If unavailable or invalid:
+
+     * Fall back to external fetching **only when explicitly enabled**
+
+* External data fetching must **never occur by default**.
+
+---
+
+### 3. API Simplification
+
+* Replace legacy parameters:
+
+  * `cache`
+  * `use_cache_server`
+
+* With a single, explicit flag:
+
+  ```python
+  use_external_data: bool = False
+  ```
+
+* This flag must fully control whether any network access is allowed.
+
+---
+
+### 4. Code Cleanup and Modernization
+
+* Remove:
+
+  * Cache server URL usage
+  * Cache server–specific logic
+  * Python 2 compatibility branches
+* Target **Python 3 only**
+
+---
+
+## Files to Modify
+
+* `utils.py`
+
+  * Implement package-resource loading via `importlib.resources` from the `data` subpackage
+  * Parse JSON Lines data
+  * Keep external fetching behind `use_external_data`
+  * Remove Python 2–only code paths
+
+* `fake.py`
+
+  * Update constructor signature
+  * Adjust `load()` logic to prefer bundled package data
+  * Ensure deterministic behavior when local data is missing
+
+* `settings.py`
+
+  * Remove unused constants (cache server URL, legacy settings)
+
+---
+
+## Expected Deliverables
+
+1. **Code Implementation**
+
+   * Local-first package-resource loading implemented
+   * External fetching strictly opt-in
+   * Legacy logic removed
+
+2. **Bundled Data**
+
+   * `data/browsers.json` included as package data
+   * Loaded via `importlib.resources`
+
+3. **README**
+
+   * Document:
+
+     * New default behavior
+     * Package data location and format
+     * How to enable external data fetching
+     * Migration notes for existing users
+
+4. **Tests and One-Click Test Script**
+
+   * Implement automated tests covering at least:
+
+     * Offline loading from bundled package data
+     * No network access by default
+     * External fetching only when `use_external_data=True`
+   * The agent may add any additional tests it considers necessary.
+   * Provide a one-click executable script:
+
+     ```
+     run_tests
+     ```
+   * The agent must **execute the tests** and ensure all tests pass.
+
+---
+
+## Acceptance Criteria
+
+* Default usage works fully offline
+* `importlib.resources` is used to load `browsers.json` from the package’s `data` subpackage
+* No external HTTP requests unless `use_external_data=True`
+* Codebase contains no Python 2 compatibility logic
+* All tests pass via `./run_tests`

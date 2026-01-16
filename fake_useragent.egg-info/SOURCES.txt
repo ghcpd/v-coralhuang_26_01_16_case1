@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+errors.py
+fake.py
+log.py
+pyproject.toml
+settings.py
+utils.py
+data/__init__.py
+data/browsers.json
+fake_useragent.egg-info/PKG-INFO
+fake_useragent.egg-info/SOURCES.txt
+fake_useragent.egg-info/dependency_links.txt
+fake_useragent.egg-info/requires.txt
+fake_useragent.egg-info/top_level.txt
+tests/test_bundled_loading.py
+tests/test_external_opt_in.py

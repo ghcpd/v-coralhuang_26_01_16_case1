@@ -1,1 +1,173 @@
-﻿‣慦敫甭敳慲敧瑮਍਍⁁祐桴湯氠扩慲祲映牯朠湥牥瑡湩⁧慲摮浯‬慶楬⁤獕牥䄭敧瑮䠠呔⁐敨摡牥⹳਍਍⌣传敶癲敩൷ഊ怊慦敫甭敳慲敧瑮⁠牰癯摩獥愠猠浩汰⁥慷⁹潴朠湥牥瑡⁥慲摮浯甠敳⵲条湥⁴瑳楲杮⁳潦⁲慶楲畯⁳牢睯敳獲‮桔⁥楬牢牡⁹潷歲⁳⨪景汦湩⁥祢搠晥畡瑬⨪‬潬摡湩⁧獵牥愭敧瑮搠瑡⁡牦浯戠湵汤摥瀠捡慫敧爠獥畯捲獥眠瑩潨瑵爠煥極楲杮愠祮渠瑥潷歲愠捣獥⹳਍਍⌣䤠獮慴汬瑡潩൮ഊ怊恠慢桳਍楰⁰湩瑳污⁬慦敫甭敳慲敧瑮਍恠ൠഊ⌊‣畑捩⁫瑓牡൴ഊ怊恠祰桴湯਍牦浯映歡⁥浩潰瑲唠敳䅲敧瑮਍਍‣牃慥整愠唠敳䅲敧瑮椠獮慴据⁥眨牯獫漠晦楬敮戠⁹敤慦汵⥴਍慵㴠唠敳䅲敧瑮⤨਍਍‣敇⁴⁡慲摮浯甠敳⵲条湥⁴潦⁲⁡灳捥晩捩戠潲獷牥਍牰湩⡴慵挮牨浯⥥਍牰湩⡴慵昮物晥硯ഩ瀊楲瑮用⹡慳慦楲ഩ瀊楲瑮用⹡摥敧ഩ瀊楲瑮用⹡灯牥⥡਍਍‣敇⁴⁡潣灭敬整祬爠湡潤⁭獵牥愭敧瑮映潲⁭湡⁹牢睯敳൲瀊楲瑮用⹡慲摮浯ഩ怊恠਍਍⌣䘠慥畴敲൳ഊⴊ⨠伪晦楬敮昭物瑳搠獥杩⩮㨪圠牯獫眠瑩潨瑵渠瑥潷歲愠捣獥⁳獵湩⁧畢摮敬⁤慤慴਍‭⨪潎爠湵楴敭搠灥湥敤据敩⁳湯攠瑸牥慮⁬敳癲捩獥⨪›敄慦汵⁴獵条⁥敲畱物獥渠⁯呈偔爠煥敵瑳൳ⴊ⨠匪浩汰⁥偁⩉㨪䔠獡⵹潴甭敳椠瑮牥慦散映牯朠湥牥瑡湩⁧獵牥愭敧瑮൳ⴊ⨠䴪汵楴汰⁥牢睯敳⁲畳灰牯⩴㨪䌠牨浯ⱥ䘠物晥硯‬慓慦楲‬摅敧‬灏牥ⱡ愠摮䤠瑮牥敮⁴硅汰牯牥਍਍⌣䐠晥畡瑬䈠桥癡潩⁲䰨捯污䘭物瑳ഩഊ䈊⁹敤慦汵ⱴ怠慦敫甭敳慲敧瑮⁠潬摡⁳獵牥愭敧瑮搠瑡⁡牦浯愠戠湵汤摥䨠体⁎楦敬椠据畬敤⁤楷桴琠敨瀠捡慫敧‮桔獩攠獮牵獥ഺഊⴊ⨠伪晦楬敮映湵瑣潩慮楬祴⨪›潎渠瑥潷歲愠捣獥⁳敲畱物摥਍‭⨪敒牰摯捵扩敬戠極摬⩳㨪匠浡⁥慤慴愠牣獯⁳污⁬湩瑳污慬楴湯൳ⴊ⨠䘪獡⁴湩瑩慩楬慺楴湯⨪›潎䠠呔⁐慬整据൹ⴊ⨠刪汥慩楢楬祴⨪›潎搠灥湥敤据⁹湯攠瑸牥慮⁬敳癲牥൳ഊ怊恠祰桴湯਍牦浯映歡⁥浩潰瑲唠敳䅲敧瑮਍਍‣桔獩眠牯獫挠浯汰瑥汥⁹景汦湩൥甊⁡‽獕牥杁湥⡴ഩ瀊楲瑮用⹡档潲敭 ⌠删瑥牵獮愠爠湡潤⁭桃潲敭甠敳⵲条湥⁴瑳楲杮਍恠ൠഊ⌊‣慐正条⁥慄慴䰠捯瑡潩⁮湡⁤潆浲瑡਍਍桔⁥畢摮敬⁤獵牥愭敧瑮搠瑡⁡獩猠潴敲⁤湩ഺഊ怊恠਍慤慴戯潲獷牥⹳獪湯਍恠ൠഊ⌊⌣䐠瑡⁡潆浲瑡਍਍桔⁥楦敬甠敳⁳⨪半乏䰠湩獥映牯慭⩴‪漨敮䨠体⁎扯敪瑣瀠牥氠湩⥥ഺഊ怊恠獪湯਍≻档潲敭㨢嬠䴢穯汩慬㔯〮⠠楗摮睯⁳呎ㄠ⸰㬰⸠⸮Ⱒ∠潍楺汬⽡⸵‰䴨捡湩潴桳※⸮∮絝਍≻楦敲潦≸›≛潍楺汬⽡⸵‰在湩潤獷丠⁔〱〮※癲⸺⸮Ⱒ⸠⸮絝਍恠ൠഊ䔊捡⁨楬敮挠湯慴湩⁳⁡半乏漠橢捥⁴慭灰湩⁧⁡牢睯敳⁲慮敭琠⁯湡愠牲祡漠⁦獵牥愭敧瑮猠牴湩獧മഊ⌊‣湅扡楬杮䔠瑸牥慮⁬慄慴䘠瑥档湩൧ഊ䤊⁦潹⁵敮摥琠⁯敦捴⁨牦獥⁨獵牥愭敧瑮搠瑡⁡牦浯攠瑸牥慮⁬潳牵散ⱳ礠畯挠湡攠灸楬楣汴⁹湥扡敬椠㩴਍਍恠灠瑹潨൮昊潲⁭慦敫椠灭牯⁴獕牥杁湥൴ഊ⌊䔠慮汢⁥硥整湲污搠瑡⁡敦捴楨杮⠠慭敫⁳敮睴牯⁫敲畱獥獴ഩ甊⁡‽獕牥杁湥⡴獵彥硥整湲污摟瑡㵡牔敵ഩ怊恠਍਍⨪慗湲湩⩧㨪匠瑥楴杮怠獵彥硥整湲污摟瑡㵡牔敵⁠楷汬ഺⴊ䴠歡⁥呈偔爠煥敵瑳⁳潴攠瑸牥慮⁬敳癲牥൳ⴊ删煥極敲渠瑥潷歲挠湯敮瑣癩瑩൹ⴊ䴠祡戠⁥汳睯牥搠敵琠⁯敮睴牯⁫慬整据൹ⴊ䌠畯摬映楡⁬晩攠瑸牥慮⁬敳癲牥⁳牡⁥湵癡楡慬汢൥ഊ吊楨⁳灯楴湯猠潨汵⁤湯祬戠⁥獵摥眠敨⁮潹⁵灳捥晩捩污祬渠敥⁤桴⁥慬整瑳甠敳⵲条湥⁴瑳楲杮⁳湡⁤牡⁥楷汬湩⁧潴愠捣灥⁴桴⁥牴摡ⵥ景獦മഊ⌊‣偁⁉敒敦敲据൥ഊ⌊⌣怠獕牥杁湥恴挠慬獳਍਍恠灠瑹潨൮唊敳䅲敧瑮ന †甠敳敟瑸牥慮彬慤慴䘽污敳‬⌠䔠慮汢⁥硥整湲污搠瑡⁡敦捴楨杮਍††慦汬慢正丽湯ⱥ††††††‣慆汬慢正甠敳⵲条湥⁴瑳楲杮漠⁮牥潲獲਍††牢睯敳獲丽湯ⱥ††††††‣楌瑳漠⁦牢睯敳獲琠⁯獵൥ †瘠牥晩役獳㵬牔敵‬††††⌠嘠牥晩⁹卓⁌潦⁲硥整湲污爠煥敵瑳൳ †猠晡彥瑡牴㵳畴汰⡥Ⱙ†††⌠䄠瑴楲畢整⁳潴瀠獡⁳潴瀠牡湥⁴彟敧慴瑴彲ൟ⤊਍恠ൠഊ⌊⌣‣慐慲敭整獲਍਍‭⨪畠敳敟瑸牥慮彬慤慴⩠‪戨潯ⱬ搠晥畡瑬怽慆獬恥㨩ഠ ⴠ怠慆獬恥›潌摡映潲⁭畢摮敬⁤慰正条⁥慤慴⠠敤慦汵ⱴ漠晦楬敮ഩ ⴠ怠牔敵㩠䘠瑥档映潲⁭硥整湲污猠畯捲獥⠠敲畱物獥渠瑥潷歲ഩഊⴊ⨠怪慦汬慢正⩠‪猨牴‬灯楴湯污㨩䄠映污扬捡⁫獵牥愭敧瑮猠牴湩⁧潴爠瑥牵⁮晩愠⁮牥潲⁲捯畣獲‮晉怠潎敮Ⱡ攠牲牯⁳楷汬爠楡敳攠捸灥楴湯⹳਍਍‭⨪扠潲獷牥恳⨪⠠楬瑳‬灯楴湯污㨩䰠獩⁴景戠潲獷牥渠浡獥琠⁯湩汣摵⹥䐠晥畡瑬›孠挢牨浯≥‬攢杤≥‬椢瑮牥敮⁴硥汰牯牥Ⱒ∠楦敲潦≸‬猢晡牡≩‬漢数慲崢ൠഊⴊ⨠怪敶楲祦獟汳⩠‪戨潯ⱬ搠晥畡瑬怽牔敵⥠›桗瑥敨⁲潴瘠牥晩⁹卓⁌散瑲晩捩瑡獥眠敨⁮敦捴楨杮攠瑸牥慮⁬慤慴‮湏祬爠汥癥湡⁴桷湥怠獵彥硥整湲污摟瑡㵡牔敵⹠਍਍‭⨪獠晡彥瑡牴恳⨪⠠畴汰⽥楬瑳猯瑥‬灯楴湯污㨩䄠瑴楲畢整渠浡獥琠慨⁴桳畯摬甠敳琠敨瀠牡湥⁴汣獡❳⁳彠束瑥瑡牴彟⁠湩瑳慥⁤景爠瑥牵楮杮甠敳⵲条湥獴മഊ⌊⌣‣牐灯牥楴獥䄯瑴楲畢整൳ഊ䄊捣獥⁳獵牥愭敧瑮⁳祢戠潲獷牥渠浡㩥਍਍‭畠⹡档潲敭⁠‭慒摮浯䌠牨浯⁥獵牥愭敧瑮਍‭畠⹡楦敲潦恸ⴠ删湡潤⁭楆敲潦⁸獵牥愭敧瑮਍‭畠⹡慳慦楲⁠‭慒摮浯匠晡牡⁩獵牥愭敧瑮਍‭畠⹡摥敧⁠‭慒摮浯䔠杤⁥獵牥愭敧瑮਍‭畠⹡灯牥恡ⴠ删湡潤⁭灏牥⁡獵牥愭敧瑮਍‭畠⹡敩⁠ 畠⹡湩整湲瑥硥汰牯牥⁠‭慒摮浯䤠瑮牥敮⁴硅汰牯牥甠敳⵲条湥൴ⴊ怠慵爮湡潤恭ⴠ删湡潤⁭獵牥愭敧瑮映潲⁭湡⁹牢睯敳൲ഊ⌊⌣‣敍桴摯൳ഊⴊ⨠怪敲牦獥⡨怩⨪›敒潬摡甠敳⵲条湥⁴慤慴映潲⁭桴⁥畣牲湥⁴潳牵散਍਍⌣䴠杩慲楴湯䜠極敤਍਍⌣‣楍牧瑡湩⁧牦浯倠敲楶畯⁳敖獲潩獮਍਍桔⁥潦汬睯湩⁧慰慲敭整獲栠癡⁥敢湥⨠爪浥癯摥⨪ഺഊ簊传摬倠牡浡瑥牥簠匠慴畴⁳⁼楍牧瑡潩⁮ർ簊ⴭⴭⴭⴭⴭⴭⴭ⵼ⴭⴭⴭ簭ⴭⴭⴭⴭⴭ簭਍⁼捠捡敨⁠⁼敒潭敶⁤⁼潎氠湯敧⁲敮摥摥※潬慣⁬慤慴椠⁳污慷獹甠敳⁤祢搠晥畡瑬簠਍⁼畠敳损捡敨獟牥敶恲簠删浥癯摥簠唠敳怠獵彥硥整湲污摟瑡㵡牔敵⁠湩瑳慥⁤ർ簊怠慰桴⁠⁼敒潭敶⁤⁼慄慴椠⁳潮⁷潬摡摥映潲⁭慰正条⁥敲潳牵散⁳ർഊ⌊⌣䈠晥牯⁥伨摬䄠䥐ഩഊ怊恠祰桴湯਍‣汏⁤偁⁉渨⁯潬杮牥猠灵潰瑲摥ഩ甊⁡‽獕牥杁湥⡴慣档㵥牔敵‬獵彥慣档彥敳癲牥吽畲ⱥ瀠瑡㵨⼢浴⽰慣档⹥獪湯⤢਍恠ൠഊ⌊⌣䄠瑦牥⠠敎⁷偁⥉਍਍恠灠瑹潨൮⌊丠睥䄠䥐ⴠ搠晥畡瑬⠠景汦湩ⱥ氠捯污搠瑡⥡਍慵㴠唠敳䅲敧瑮⤨਍਍‣敎⁷偁⁉‭楷桴攠瑸牥慮⁬慤慴⠠晩渠敥敤⥤਍慵㴠唠敳䅲敧瑮用敳敟瑸牥慮彬慤慴吽畲⥥਍恠ൠഊ⌊⌣䬠祥䌠慨杮獥਍਍⸱⨠䐪晥畡瑬戠桥癡潩⁲獩渠睯漠晦楬敮⨪›潎渠瑥潷歲爠煥敵瑳⁳祢搠晥畡瑬਍⸲⨠匪浩汰晩敩⁤偁⩉㨪匠湩汧⁥畠敳敟瑸牥慮彬慤慴⁠汦条爠灥慬散⁳畭瑬灩敬挠捡敨瀠牡浡瑥牥൳㌊‮⨪祐桴湯㌠漠汮⩹㨪倠瑹潨⁮′畳灰牯⁴慨⁳敢湥爠浥癯摥਍⸴⨠倪捡慫敧戭湵汤摥搠瑡⩡㨪䐠瑡⁡獩氠慯敤⁤牦浯椠獮慴汬摥瀠捡慫敧‬潮⁴楦敬祳瑳浥瀠瑡獨਍⸵⨠个⁯整灭牯牡⁹楦敬挠捡楨杮⨪›敒潭敶⁤楦敬祳瑳浥挠捡敨椠⁮慦潶⁲景瀠捡慫敧爠獥畯捲獥਍਍⌣䈠潲獷牥䄠楬獡獥਍਍桔⁥潦汬睯湩⁧污慩敳⁳牡⁥畳灰牯整⁤潦⁲潣癮湥敩据㩥਍਍⁼汁慩⁳⁼牂睯敳⁲ർ簊ⴭⴭⴭ簭ⴭⴭⴭⴭ簭਍⁼楠恥‬浠楳恥‬楠瑮牥敮整灸潬敲恲簠䤠瑮牥敮⁴硅汰牯牥簠਍⁼晠恦簠䘠物晥硯簠਍⁼杠潯汧恥‬杠潯汧捥牨浯恥簠䌠牨浯⁥ർ簊怠業牣獯景⁴摥敧⁠⁼摅敧簠਍਍⌣䔠牲牯䠠湡汤湩൧ഊ怊恠祰桴湯਍牦浯映歡⁥浩潰瑲唠敳䅲敧瑮਍牦浯攠牲牯⁳浩潰瑲䘠歡啥敳䅲敧瑮牅潲൲ഊ⌊唠楳杮映污扬捡⁫攨牲牯⁳畳灰敲獳摥ഩ甊⁡‽獕牥杁湥⡴慦汬慢正∽潍楺汬⽡⸵‰挨浯慰楴汢㭥䈠瑯ㄯ〮∩ഩഊ⌊圠瑩潨瑵映污扬捡⁫攨牲牯⁳慲獩摥ഩ琊祲ഺ †甠⁡‽獕牥杁湥⡴ഩ †瀠楲瑮用⹡潮敮楸瑳湥彴牢睯敳⥲਍硥散瑰䘠歡啥敳䅲敧瑮牅潲⁲獡攠ഺ †瀠楲瑮昨䔢牲牯›敻≽ഩ怊恠਍਍⌣删煥極敲敭瑮൳ഊⴊ倠瑹潨⁮⸳⬷਍‭潎攠瑸牥慮⁬畲瑮浩⁥敤数摮湥楣獥映牯搠晥畡瑬⠠景汦湩⥥甠慳敧਍਍⌣䰠捩湥敳਍਍䥍⁔楌散獮൥
+# fake-useragent
+
+A Python library for generating random, valid User-Agent HTTP headers.
+
+## Overview
+
+`fake-useragent` provides a simple way to generate random user-agent strings for various browsers. The library works **offline by default**, loading user-agent data from bundled package resources without requiring any network access.
+
+## Installation
+
+```bash
+pip install fake-useragent
+```
+
+## Quick Start
+
+```python
+from fake import UserAgent
+
+# Create a UserAgent instance (works offline by default)
+ua = UserAgent()
+
+# Get a random user-agent for a specific browser
+print(ua.chrome)
+print(ua.firefox)
+print(ua.safari)
+print(ua.edge)
+print(ua.opera)
+
+# Get a completely random user-agent from any browser
+print(ua.random)
+```
+
+## Features
+
+- **Offline-first design**: Works without network access using bundled data
+- **No runtime dependencies on external services**: Default usage requires no HTTP requests
+- **Simple API**: Easy-to-use interface for generating user-agents
+- **Multiple browser support**: Chrome, Firefox, Safari, Edge, Opera, and Internet Explorer
+
+## Default Behavior (Local-First)
+
+By default, `fake-useragent` loads user-agent data from a bundled JSON file included with the package. This ensures:
+
+- **Offline functionality**: No network access required
+- **Reproducible builds**: Same data across all installations
+- **Fast initialization**: No HTTP latency
+- **Reliability**: No dependency on external servers
+
+```python
+from fake import UserAgent
+
+# This works completely offline
+ua = UserAgent()
+print(ua.chrome)  # Returns a random Chrome user-agent string
+```
+
+## Package Data Location and Format
+
+The bundled user-agent data is stored in:
+
+```
+data/browsers.json
+```
+
+### Data Format
+
+The file uses JSON format mapping browser names to arrays of user-agent strings:
+
+```json
+{"chrome": ["Mozilla/5.0 (Windows NT 10.0; ...", "Mozilla/5.0 (Macintosh; ..."]}
+{"firefox": ["Mozilla/5.0 (Windows NT 10.0; rv:...", ...]}
+```
+
+## Enabling External Data Fetching
+
+If you need to fetch fresh user-agent data from external sources, you can explicitly enable it:
+
+```python
+from fake import UserAgent
+
+# Enable external data fetching (makes network requests)
+ua = UserAgent(use_external_data=True)
+```
+
+**Warning**: Setting `use_external_data=True` will:
+- Make HTTP requests to external servers
+- Require network connectivity
+- May be slower due to network latency
+- Could fail if external servers are unavailable
+
+This option should only be used when you specifically need the latest user-agent strings and are willing to accept the trade-offs.
+
+## API Reference
+
+### `UserAgent` class
+
+```python
+UserAgent(
+    use_external_data=False,  # Enable external data fetching
+    fallback=None,            # Fallback user-agent string on errors
+    browsers=None,            # List of browsers to use
+    verify_ssl=True,          # Verify SSL for external requests
+    safe_attrs=tuple(),       # Attributes to pass to parent __getattr__
+)
+```
+
+### Parameters
+
+- **`use_external_data`** (bool, default=`False`):
+  - `False`: Load from bundled package data (default, offline)
+  - `True`: Fetch from external sources (requires network)
+
+- **`fallback`** (str, optional): A fallback user-agent string to return if an error occurs. If `None`, errors will raise exceptions.
+
+- **`browsers`** (list, optional): List of browser names to include. Default: `["chrome", "edge", "internet explorer", "firefox", "safari", "opera"]`
+
+- **`verify_ssl`** (bool, default=`True`): Whether to verify SSL certificates when fetching external data. Only relevant when `use_external_data=True`.
+
+- **`safe_attrs`** (tuple/list/set, optional): Attribute names that should use the parent class's `__getattr__` instead of returning user-agents.
+
+### Properties/Attributes
+
+Access user-agents by browser name:
+
+- `ua.chrome` - Random Chrome user-agent
+- `ua.firefox` - Random Firefox user-agent
+- `ua.safari` - Random Safari user-agent
+- `ua.edge` - Random Edge user-agent
+- `ua.opera` - Random Opera user-agent
+- `ua.ie` / `ua.internetexplorer` - Random Internet Explorer user-agent
+- `ua.random` - Random user-agent from any browser
+
+### Methods
+
+- **`refresh()`**: Reload user-agent data from the current source
+
+## Browser Aliases
+
+The following aliases are supported for convenience:
+
+| Alias | Browser |
+|-------|---------|
+| `ie`, `msie`, `internetexplorer` | Internet Explorer |
+| `ff` | Firefox |
+| `google`, `googlechrome` | Chrome |
+| `microsoft edge` | Edge |
+
+## Error Handling
+
+```python
+from fake import UserAgent
+from errors import FakeUserAgentError
+
+# Using fallback (errors suppressed)
+ua = UserAgent(fallback="Mozilla/5.0 (compatible; Bot/1.0)")
+
+# Without fallback (errors raised)
+try:
+    ua = UserAgent()
+    print(ua.nonexistent_browser)
+except FakeUserAgentError as e:
+    print(f"Error: {e}")
+```
+
+## Requirements
+
+- Python 3.7+
+- No external runtime dependencies for default (offline) usage
+
+## License
+
+MIT License
